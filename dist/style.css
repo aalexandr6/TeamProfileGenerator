@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(./TEAM.png);
+    background-repeat: no-repeat;
+    background-position:center; 
+    background-size: cover;
+    justify-content: center;
+    min-height: 100vh;
+    justify-content: center;
+}
+#navbar {
+    background-color: transparent;
+}
+.navbar-brand {
+    font-size: 60px;
+    color: royalblue;
+    font-weight:bolder;
+}
+.card-header {
+    background-color: royalblue;
+    color: black;
+}
+.card-body {
+    background-color: black;
+    color: aliceblue;
+
+}
+.container {
+    margin: 150px auto;
+    justify-content: space-evenly;
+    display: flex;
+    
+}
